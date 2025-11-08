@@ -1,0 +1,12 @@
+# IPTV M3U Credential Extractor
+# No external dependencies required - uses Python standard library only
+#
+# Python 3.6+ required
+#
+# Standard library modules used:
+# - argparse (command-line argument parsing)
+# - os (file and directory operations)
+# - re (regular expressions)
+# - sys (system-specific parameters)
+# - typing (type hints)
+# - urllib.parse (URL parsing)
